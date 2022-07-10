@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Younesnz
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
+- 👋 Hey there! I'm Younes and I know how to code ;)
+- 👀 I’m interested in Web Development and Designing stuff!
+- 🌱 I’m currently learning C# and JavaScript
 - 📫 hi@younesnz.com
 
 <!---
